@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+About this site
+
+```{python}
+1 + 1
+```
